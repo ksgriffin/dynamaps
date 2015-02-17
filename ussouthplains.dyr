@@ -1,0 +1,23 @@
+ussouthplains
+mpProjection
+CylindricalEquidistant
+mpOutlineSpecifiers
+United States:States,Mexico:States,United States:Counties
+mpCountyLineColor
+burlywood4
+mpCountyLineThicknessF
+1.0
+mpLimitMode
+LatLon
+mpMinLatF
+24
+mpMaxLatF
+41
+mpMinLonF
+-110
+mpMaxLonF
+-88
+mpCenterLonF
+-99
+mpGridAndLimbOn
+False

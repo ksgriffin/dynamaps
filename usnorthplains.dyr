@@ -1,0 +1,23 @@
+usnorthplains
+mpProjection
+CylindricalEquidistant
+mpOutlineSpecifiers
+United States:States,Canada:States,United States:Counties
+mpCountyLineColor
+burlywood4
+mpCountyLineThicknessF
+1.0
+mpLimitMode
+LatLon
+mpMinLatF
+34
+mpMaxLatF
+53
+mpMinLonF
+-110
+mpMaxLonF
+-87
+mpCenterLonF
+-99
+mpGridAndLimbOn
+False

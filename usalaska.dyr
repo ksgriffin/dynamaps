@@ -1,0 +1,17 @@
+usalaska
+mpProjection
+CylindricalEquidistant
+mpLimitMode
+LatLon
+mpMinLatF
+45
+mpMaxLatF
+75
+mpMinLonF
+-180
+mpMaxLonF
+-128
+mpCenterLonF
+-159
+mpGridAndLimbOn
+False

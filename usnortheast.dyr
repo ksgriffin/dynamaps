@@ -1,0 +1,23 @@
+usnortheast
+mpProjection
+CylindricalEquidistant
+mpOutlineSpecifiers
+United States:States,Canada:States,United States:Counties
+mpCountyLineColor
+burlywood4
+mpCountyLineThicknessF
+1.0
+mpLimitMode
+LatLon
+mpMinLatF
+33
+mpMaxLatF
+49
+mpMinLonF
+-88
+mpMaxLonF
+-66
+mpCenterLonF
+-77
+mpGridAndLimbOn
+False

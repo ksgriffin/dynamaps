@@ -1,0 +1,15 @@
+antarctic
+mpProjection
+Orthographic
+mpLimitMode
+MaximalArea
+mpPerimOn
+False
+mpCenterLonF
+0
+mpCenterLatF
+-90
+mpGridLatSpacingF
+30
+mpGridLonSpacingF
+30
